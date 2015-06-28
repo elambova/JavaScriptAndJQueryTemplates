@@ -1,0 +1,28 @@
+html, body, div, a{
+    margin: 0;
+    padding: 0;
+}
+html {
+    background-color: #4bb8f0;
+}
+#wrap {
+    width: 90%;
+    margin: 15% auto;
+    text-align: center;
+}
+
+.button{
+    margin: 2% auto;
+    width: 45%;
+    text-decoration: none;
+    background-color: #9ee8fa;
+    border: 2px solid #f5f6ff;
+    border-radius: 20px;
+    color: darkblue;
+    padding: 1%;
+    font-size: 2em;
+    font-weight: bold;
+    display: inline-block;
+    box-shadow: 4px 5px 6px blanchedalmond;
+    text-shadow: 3px 3px 3px burlywood;
+}
